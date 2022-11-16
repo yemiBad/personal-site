@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+}
+
+hr {
+
+    border-style: dotted none none;
+    border-color: #937DC2;
+    border-width: 5px;
+    width: 5.5%;
+}
+
+h2,h3{
+    color:#666bbf;
+}
+
+h1{
+    color: rgb(36, 25, 25);
+}
+
+.button:hover{
+background-color: blue;
+border-color: greenyellow;
+}
